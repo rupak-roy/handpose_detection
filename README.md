@@ -9,6 +9,7 @@ python handPoseImage.py
 python handPoseVideo.py
 
 ![image](Output-Skeleton.jpg)
+
 There is always room for improvement. Most Welcome.
 
 Applications:
